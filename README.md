@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zakaria-houam
 - 👀 I’m interested in Web dev
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently working with laravel backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +213656569260
 
